@@ -1,4 +1,4 @@
-local stencil = require "src.main"
+local stencil = require "src.init"
 
 
 --  Support definition a placeholder by hand.
